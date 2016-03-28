@@ -6,7 +6,7 @@ What you can do with image-rotator:
 
 ##Screenshot
 
-<img src="https://raw.githubusercontent.com/palicka/image-rotator/master/app/src/main/res/drawable/demp.gif" width="448" />
+<img src="https://raw.githubusercontent.com/palicka/image-rotator/master/app/src/main/res/drawable/demo.gif" width="448" />
 
 
 Installation
