@@ -3,6 +3,12 @@ What you can do with image-rotator:
 - rotate image with auto-scaling to avoid black triangles in the corners (when displaying to user)
 - save rotated and cropped image from original image
 
+
+##Screenshot
+
+<img src="https://raw.githubusercontent.com/palicka/image-rotator/master/app/src/main/res/drawable/demp.gif" width="448" />
+
+
 Installation
 =======
 
