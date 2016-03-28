@@ -1,6 +1,24 @@
 # image-rotator
 Image rotate with auto-enlarging to avoid black triangles in the corners
 
+Installation
+=======
+
+Add it in your root build.gradle at the end of repositories:
+
+allprojects {
+		repositories {
+			...
+			maven { url "https://jitpack.io" }
+		}
+	}
+
+Add the dependency
+
+dependencies {
+	        compile 'com.github.palicka:image-rotator:0.1'
+	}
+
 License
 =======
 Copyright 2016, Pavol Fogas 
