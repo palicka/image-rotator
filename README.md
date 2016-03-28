@@ -1,5 +1,7 @@
 # image-rotator
-Image rotate with auto-enlarging to avoid black triangles in the corners
+What you can do with image-rotator:
+- rotate image with auto-scaling to avoid black triangles in the corners (when displaying to user)
+- save rotated and cropped image from original image
 
 Installation
 =======
