@@ -6,7 +6,7 @@ Installation
 
 Add it in your root build.gradle at the end of repositories:
 
-allprojects {
+	allprojects {
 		repositories {
 			...
 			maven { url "https://jitpack.io" }
@@ -15,8 +15,8 @@ allprojects {
 
 Add the dependency
 
-dependencies {
-	        compile 'com.github.palicka:image-rotator:0.1'
+	dependencies {
+		compile 'com.github.palicka:image-rotator:0.1'
 	}
 
 License
